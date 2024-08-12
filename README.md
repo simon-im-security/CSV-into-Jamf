@@ -4,7 +4,7 @@
 
 Welcome to the **CSV into Jamf** repository! This application is designed to streamline the process of importing Mac computer hostnames and serial numbers from a CSV file into Jamf static groups. Built with a Bash script and enhanced by a GUI frontend, this tool offers an intuitive and efficient way for Jamf engineers and administrators to manage their Mac devices.
 
-![App Screenshot](https://github.com/simon-im-security/CSV-into-Jamf/blob/main/app_screenshot.png)
+<img src="https://github.com/simon-im-security/CSV-into-Jamf/blob/main/%20app_screenshot.png" alt="App Screenshot" width="50%">
 
 ## Key Features
 
@@ -28,7 +28,7 @@ This feature directly imports serial numbers from a CSV file into a Jamf static 
 - **Updates Jamf Static Groups**: Directly adds computers to the specified static group based on their serial numbers.
 - **Logs Detailed Information**: Comprehensive logging ensures that every step is documented, helping with troubleshooting.
 
-![CSV Format Example](https://github.com/simon-im-security/CSV-into-Jamf/blob/main/csv_example.png)
+<img src="https://github.com/simon-im-security/CSV-into-Jamf/blob/main/csv_example.png" alt="CSV Format Example" width="50%">
 
 ## Benefits for Jamf Engineers/Admins
 
